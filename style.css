@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 700px;
+}
+
+.card-header {
+    font-weight: bold;
+}
+
+.contact-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.contact-info {
+    flex-grow: 1;
+}
+
+.contact-actions button {
+    margin-left: 5px;
+}
